@@ -20,13 +20,12 @@ It provides an elegant space to **create, edit, organize, and visualize notes** 
 
 ---
 
-## 🚀 View Live  
+## 🚀 View Live Version With AI Support
 👉 [**Click Here to Try Neural Notes**](https://perchance.org/noteit-shanks)  
 
 ---
 
-## 📸 Screenshots  
-(Add your screenshots here)  
+## 📸 Screenshots 
 ![App Screenshot Placeholder](NeuralNotes.png)  
 
 ---
