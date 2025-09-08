@@ -27,7 +27,7 @@ It provides an elegant space to **create, edit, organize, and visualize notes** 
 
 ## 📸 Screenshots  
 (Add your screenshots here)  
-![App Screenshot Placeholder](https://via.placeholder.com/800x400?text=Neural+Notes+Screenshot)  
+![App Screenshot Placeholder](NeuralNotes.png)  
 
 ---
 
